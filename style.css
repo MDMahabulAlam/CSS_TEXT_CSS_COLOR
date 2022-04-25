@@ -1,0 +1,56 @@
+.Container{
+    margin: 0px;
+    padding:0px;
+}
+body{
+    background-color: lightblue;
+}
+h3{
+
+    background-color: rgb(170, 114, 166);
+    color: rgb(215, 39, 48);
+    margin-bottom: 20px;
+    padding: 5px;
+    word-spacing: 25PX;
+    Text-transform:uppercase ;
+    font-style: italic;
+    text-decoration: underline;
+
+}
+h1{
+    background-color: rgb(43, 226, 64);
+    color: blueviolet;
+    margin-bottom: 20px;
+    padding: 5px;
+}
+h2{
+    background-color: rgb(170, 114, 166);
+    color: rgb(215, 39, 48);
+    margin-bottom: 10px;
+    padding: 5px;
+}
+p{
+   background-color: #29aefc;
+   margin: 25px;
+   padding: 5px;
+   font-weight: 700;
+   text-transform: capitalize;
+   word-spacing: 15px;
+}
+h4{
+    background-color: rgb(43, 226, 64);
+    color: blueviolet;
+    margin: 45px;
+    padding: 5px;
+    word-spacing: 15px;
+    letter-spacing: 25px;
+    text-decoration: underline;
+}
+h5{
+    background-color: #29aefc;
+    margin: 25px;
+   padding: 5px;
+   word-spacing: 15px;
+   font-weight: 500px;
+   text-decoration: line-through;
+}
